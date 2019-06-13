@@ -1,0 +1,4 @@
+1、Calendar.js文件夹为晶晶博主实现的阳历农历互转js代码。
+2、data.bak是本人存储的1900年-2100年阳历农历干支相关数据。
+3、LunisolarCanlendar.cs文件中有1所述的js代码的C#实现。
+4、API入口可以获取宜忌信息。
