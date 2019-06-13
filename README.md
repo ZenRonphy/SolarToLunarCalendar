@@ -1,2 +1,2 @@
 # SolarToLunarCalendar
-Convert solar date to chinese lunar date
+Convert solar date to chinese lunar date.
